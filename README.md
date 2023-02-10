@@ -1,3 +1,2 @@
 # meu-primeiro-repo
-Meu primeiro repositório 
-
+Repositório criado para o primeiro exerciocio com Git Hub da cubos academy
